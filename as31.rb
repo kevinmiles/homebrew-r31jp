@@ -2,7 +2,7 @@ require 'formula'
 
 class As31 < Formula
     url 'https://github.com/nitsky/as31/archive/0.1.tar.gz'
-    sha1 'eb5a5015a877fe38675c562c7b0fe4a69e281a8c'
+    sha256 '9eae96a0b8acfa62bc4d0a603eb2ec8bfe5161be91f90234ebc73dff601592ae'
     homepage 'https://github.com/nitsky/as31'
     def install
         system "make"
