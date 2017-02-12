@@ -2,7 +2,7 @@ require 'formula'
 
 class R31jp < Formula
     url 'https://github.com/nitsky/r31jp/archive/0.2.tar.gz'
-    sha256 'ece47f775de172d2af5e9588743d145a8a6020b1f236950d73d7e5ae3945ecef'
+    sha256 '07e34813f52237f4285e3a3352baa930c4ff46e5044346f7b9721db8ad3db16b'
     homepage 'https://github.com/nitsky/r31jp'
     depends_on 'nitsky/r31jp/as31'
     def install
